@@ -1,7 +1,7 @@
 # How to Start the System on Another Laptop
 
 1. **Copy the Project Folder**  
-   Transfer the entire `Class Teacher Mangement System` folder to your new laptop.
+   Download `Class Teacher Mangement System` folder to your new laptop.
 
 2. **Install Node.js**  
    Download and install Node.js from [https://nodejs.org/](https://nodejs.org/) if not already installed.
