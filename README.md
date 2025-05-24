@@ -2,8 +2,9 @@
 
 1. **Copy the Project Folder**  
    Download `Class Teacher Mangement System` folder to your new laptop.
+   
 
-2. **Install Node.js**  
+3. **Install Node.js**  
    Download and install Node.js from [https://nodejs.org/](https://nodejs.org/) if not already installed.
    
 
