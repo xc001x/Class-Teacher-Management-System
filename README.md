@@ -70,6 +70,7 @@ Follow these steps to set up the MongoDB database for the system:
    - Check the terminal for a successful database connection message.
 
    Admin Deafault Account:
+
    admin
 
    admin123
