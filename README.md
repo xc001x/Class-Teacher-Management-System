@@ -5,17 +5,18 @@
 
 2. **Install Node.js**  
    Download and install Node.js from [https://nodejs.org/](https://nodejs.org/) if not already installed.
+   
 
-3. **Open the Project in VSCode**  
+4. **Open the Project in VSCode**  
    Open Visual Studio Code and open the project folder.
 
-4. **Install Dependencies**  
+5. **Install Dependencies**  
    Open the terminal in VSCode and run:
    ```
    npm install
    ```
 
-5. **Start the Backend Server**  
+6. **Start the Backend Server**  
    In the terminal, run:
    ```
    npm start
@@ -25,13 +26,13 @@
    npm run dev
    ```
 
-6. **Access the System**  
+7. **Access the System**  
    Open your browser and go to:
    ```
    http://localhost:3000
    ```
 
-7. **(Optional) Setup Database**  
+8. **(Optional) Setup Database**  
    - Make sure MongoDB is installed and running.
    - Update the database connection string in your code if needed.
 
