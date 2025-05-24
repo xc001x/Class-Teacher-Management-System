@@ -11,6 +11,7 @@
 4. **Open the Project in VSCode**  
    Open Visual Studio Code and open the project folder.
 
+
 5. **Install Dependencies**  
    Open the terminal in VSCode and run:
    ```
